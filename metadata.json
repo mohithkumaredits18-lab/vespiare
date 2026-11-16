@@ -1,0 +1,6 @@
+{
+  "name": "Vespera",
+  "description": "Ad-free music streaming player with curated albums, custom playlists, queue management, and local audio support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
